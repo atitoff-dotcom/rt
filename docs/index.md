@@ -6,7 +6,7 @@
 * [Прогноз на 2026-2027 годы](2026_2027.md)
 
 **Россия**
-* Манифест к тем, кто еще остался в Германии [на русском](rossia/from_germany/index.md) - [на немецком](rossia/from_germany/index_d.md)
+* Манифест к тем, кто еще остался в Германии [на русском](rossia/from_germany/index.md) - [auf Deutsch](rossia/from_germany/index_d.md)
 
 
 
