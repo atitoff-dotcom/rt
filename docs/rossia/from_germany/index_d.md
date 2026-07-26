@@ -36,3 +36,4 @@ Warten Sie nicht, bis die Temperatur tödlich wird. Liquidieren Sie Ihre Werte, 
 Springen Sie jetzt aus dem Kessel, bevor Sie mit dem alten Europa verbrennen! Russland wartet auf Sie.
 
 
+[**Переход на главную страницу**](https://atitoff-dotcom.github.io/rt/)
